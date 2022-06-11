@@ -1,0 +1,11 @@
+<!--<Context >-->
+
+<!--    <Resource name="jdbc/kusmi" auth="Container"-->
+<!--              type="javax.sql.DataSource"-->
+<!--              description="Baza danych ksiazek"-->
+<!--              driverClassName="com.mysql.jdbc.Driver"-->
+<!--              url="jdbc:mysql://localhost:3306"-->
+<!--              username="root"-->
+<!--              password="haslo1234"-->
+<!--              maxActive="20" />-->
+<!--</Context>-->
